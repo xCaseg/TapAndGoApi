@@ -1,0 +1,41 @@
+﻿# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Bin and Obj folders
+bin/
+obj/
+
+# Others
+*.db
+.env
+
+# Build results
+bin/
+obj/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.db
+.env
+secrets.json
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
